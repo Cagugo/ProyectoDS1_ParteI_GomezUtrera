@@ -2,7 +2,7 @@
 
 
 1. Abstract
-Este proyecto analiza el rendimiento histórico y los factores que influyen en los precios de los CEDEARs (Certificados de Depósito Argentinos) tecnológicos, utilizando datos descargados de la API de Alpha Vantage. Se seleccionaron 15 CEDEARs de empresas líderes en tecnología, y se analizaron datos desde 2018 hasta la actualidad.
+Este proyecto analiza el rendimiento histórico y los factores que influyen en los precios de los CEDEARs (Certificados de Depósito Argentinos) tecnológicos, utilizando datos descargados de GOOGLEFINANCE exportando esos datos mediante Google Sheets. Se seleccionaron 13 CEDEARs de empresas líderes en tecnología, y se analizaron datos desde 2018 hasta la actualidad.
 
 Las preguntas de investigación incluyen:
 
